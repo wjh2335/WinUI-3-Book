@@ -54,3 +54,6 @@
 |__12장__|__Win2D 그림판 저장 & 불러오기 실습__||
 |__13장__|__Github 활용__|Visual Studio 2022에서 프로젝트를 Github로 관리하기|
 |__14장__|__App 배포__||
+
+## VI. 작성 양식
+[링크](https://github.com/wjh2335/WinUI-3-Book/blob/main/%EA%B5%90%EC%9E%AC%20%EC%96%91%EC%8B%9D.hwp) 파일을 다운 받아 작성합니다.
